@@ -1,0 +1,19 @@
+.card {
+    border: none;
+}
+
+.card-img-top {
+    background-image: url('img/casey-horner-pXZxuXmpsNo-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 50vh;
+    width: 100%;
+}
+
+.container {
+    background: red;
+    .col-8 {
+        background: green;
+    }
+}
